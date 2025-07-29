@@ -11,7 +11,7 @@ description = "A custom widget for returning mouse and keyboard events to Python
 readme = "README.md"
 license = {text = "BSD 3-clause"}
 license_files = ["LICENSE.md"]
-requires-python = ">=3.6"
+requires-python = ">=3.9"
 authors = [
     { name = "Matt Craig", email = "mattwcraig@gmail.com" },
 ]
@@ -27,10 +27,11 @@ classifiers = [
     "License :: OSI Approved :: BSD License",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
-    "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
 ]
 dependencies = [
     "ipywidgets>=7.6.0",
